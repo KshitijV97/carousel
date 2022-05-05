@@ -4,18 +4,18 @@ import Ubc from '../images/ubc.jpg';
 
 export const images = [
 	{
-		title: 'San Diego',
-		subtitle: 'This is San Diego',
+		title: 'Ahmedabad',
+		subtitle: 'This is our Ahmedabad',
 		img: City,
 	},
 	{
-		title: 'Salvador, Brazil',
+		title: 'Pune, India',
 		subtitle: 'The best city in the world',
 		img: Salvador,
 	},
 	{
-		title: 'San Diego',
-		subtitle: 'This is San Diego',
+		title: 'Pune University',
+		subtitle: 'Best university',
 		img: Ubc,
 	},
 ];
