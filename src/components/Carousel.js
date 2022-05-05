@@ -20,7 +20,10 @@ function Carousel() {
 				>
 					<ArrowBackIos />
 				</div>
-				<div className='center'></div>
+				<div className='center'>
+					<h1>{images[currentImage].title}</h1>
+					<p>{images[currentImage].subtitle}</p>
+				</div>
 				<div
 					className='right'
 					onClick={() => {
