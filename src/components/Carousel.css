@@ -26,6 +26,11 @@
 .carouselInner .center {
 	flex: 90%;
 	height: 100%;
+	display: grid;
+	place-items: center;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: justify;
+	text-align-last: center;
 }
 
 .carouselInner .right {
@@ -36,4 +41,19 @@
 	place-items: center;
 	color: white;
 	cursor: pointer;
+}
+
+h1 {
+	font-size: 5rem;
+}
+
+p {
+	font-size: 2rem;
+}
+
+h1,
+p {
+	background-color: rgb(255, 255, 255, 0.8);
+	padding: 20px;
+	border-radius: 9px;
 }
