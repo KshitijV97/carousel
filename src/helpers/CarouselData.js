@@ -1,6 +1,6 @@
 import City from '../images/city.jpg';
-import Salvador from '../images/city.jpg';
-import Ubc from '../images/city.jpg';
+import Salvador from '../images/salvador.jpg';
+import Ubc from '../images/ubc.jpg';
 
 export const images = [
 	{
